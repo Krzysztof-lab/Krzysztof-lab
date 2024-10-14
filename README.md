@@ -1,5 +1,6 @@
 ## Hi there 👋
-This account is primarily used for my studies, where I explore coding, software development, and various tech-related topics. I'm passionate about learning and experimenting with different tools and technologies to enhance my skills.
+This account is primarily used for my studies, where I explore coding, software development, and various tech-related topics. 
+I'm passionate about learning and experimenting with different tools and technologies to enhance my skills.
 <!--
 **Krzysztof-lab/Krzysztof-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
